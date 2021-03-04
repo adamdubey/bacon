@@ -1,0 +1,43 @@
+body {
+    background-color: #66BFBF;
+    margin-top: 100px;
+}
+
+h1 {
+    color: maroon;
+}
+
+p {
+   color: black 
+}
+
+img {
+    background-color: maroon;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img:hover {
+    background-color: gold;
+    border-radius: 100%;
+}
+
+a {
+    color: gold;
+}
+
+#heading {
+    color: maroon;
+}
+
+#verse-1 {
+    color: maroon;
+}
+
+
+#verse-2 {
+    color: gold;
+}
+
